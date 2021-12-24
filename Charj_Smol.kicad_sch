@@ -1322,7 +1322,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x06") (at 251.46 121.92 180) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 658be92e-61fa-4065-b15a-6ec5652fe907)
     (property "Reference" "PADS1" (id 0) (at 249.428 119.7415 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1363,7 +1363,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x01") (at 251.46 139.7 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 9592ffc9-28cf-4206-9e26-728a64bd7cbe)
     (property "Reference" "PADS3" (id 0) (at 249.4281 138.7915 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1698,7 +1698,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x06") (at 251.46 101.6 180) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid f91a04fe-5dc9-4a2a-adc0-ae231c0b616a)
     (property "Reference" "PADS2" (id 0) (at 251.46 85.09 0))
     (property "Value" "Underside Pads" (id 1) (at 251.46 88.9 0))
